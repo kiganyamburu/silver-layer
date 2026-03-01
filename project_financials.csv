@@ -1,0 +1,31 @@
+project_id,project_name,sector_code,office,pm_name,client_name,contract_value,costs_to_date,billed_to_date,percent_complete,start_date,target_end_date
+HC-2024-001,Memorial Regional Med Center Phase 2,HC,Detroit,James Wright,Memorial Health System,2850000,1925000,2100000,72,2024-01-15,2025-06-30
+HC-2024-003,St. Luke's Patient Tower Expansion,HC,Chicago,Maria Santos,Advocate Health,4200000,2100000,2350000,48,2024-03-01,2026-01-15
+HC-2024-005,Riverside Community Health Center,HC,Dallas,David Okafor,Riverside Health,1200000,780000,850000,68,2024-02-15,2025-04-30
+HC-2024-008,Lakeview Surgical Center Renovation,HC,Detroit,Sarah Chen,Lakeview Medical Group,1650000,1100000,1200000,70,2024-01-20,2025-05-15
+HC-2024-010,Parkside Behavioral Health Facility,HC,Boston,James Wright,Parkside Health Partners,2100000,630000,700000,28,2024-06-01,2026-03-30
+HC-2024-012,Metro Urgent Care Network Buildout,HC,Chicago,Maria Santos,Metro Health Services,980000,810000,720000,75,2024-01-10,2025-03-15
+HE-2024-002,State University Science Hall Modernization,HE,Boston,Rachel Torres,State University System,5500000,2200000,2400000,38,2024-04-01,2026-06-30
+HE-2024-004,Community College Student Center,HE,Denver,Alex Kim,Front Range CC District,3100000,2170000,2300000,72,2024-01-05,2025-06-15
+HE-2024-007,Tech Institute Research Lab Complex,HE,Dallas,David Okafor,Texas Tech Institute,6800000,1700000,1900000,22,2024-07-15,2026-12-30
+HE-2024-009,Liberal Arts Classroom Building,HE,Chicago,Maria Santos,Midwest University,2400000,1950000,1750000,73,2024-01-08,2025-05-30
+HE-2024-015,Graduate Housing Residences,HE,Denver,Rachel Torres,Mountain State University,3800000,950000,1000000,23,2024-08-01,2026-09-15
+MC-2024-006,DataVault Tier IV Data Center,MC,Dallas,Sarah Chen,DataVault Corp,8200000,3280000,3500000,38,2024-03-15,2026-04-30
+MC-2024-011,SecureNet Colocation Expansion,MC,Boston,James Wright,SecureNet Holdings,4500000,2700000,2900000,62,2024-02-01,2025-08-30
+MC-2024-013,CloudFirst Edge Computing Facility,MC,Chicago,Alex Kim,CloudFirst Technologies,3200000,1920000,2050000,62,2024-02-15,2025-09-15
+MC-2024-016,Federal Data Processing Center,MC,Dallas,David Okafor,US General Services Admin,12000000,2400000,2600000,18,2024-09-01,2027-03-31
+MCHC-2024-017,Northshore Data Center Fit-Out,MC,Boston,Sarah Chen,Northshore Partners,1750000,980000,1050000,58,2024-04-01,2025-03-31
+MC-HC-2024-017,Northshore Data Ctr Fit-Out,MC,Boston,Sarah Chen,Northshore Partners,1750000,980000,1050000,58,2024-04-01,2025-03-31
+MC-2024-019,PowerGrid Control Center Upgrade,MC,Detroit,James Wright,Great Lakes Energy,2900000,2350000,2150000,72,2024-01-12,2025-04-15
+WP-2024-014,GlobalBank Regional HQ,WP,Chicago,Maria Santos,GlobalBank NA,3600000,1800000,1950000,48,2024-05-01,2025-11-30
+WP-2024-018,InsureCo Claims Center Fit-Out,WP,Detroit,Alex Kim,InsureCo Group,1400000,1150000,1050000,72,2024-01-15,2025-04-30
+WP-2024-020,Creative Agency Studio Conversion,WP,Denver,Rachel Torres,Spark Creative,850000,595000,620000,73,2024-01-20,2025-03-28
+WP-2024-021,LawFirm Downtown Relocation,WP,Boston,David Okafor,"Morrison & Sterling LLP",2200000,1540000,1600000,72,2024-01-10,2025-05-15
+WP-2024-024,TechStartup Incubator Space,WP,Dallas,Alex Kim,Innovation District LLC,1100000,440000,480000,38,2024-06-15,2025-07-30
+WP-2024-031,TechForward HQ Renovation,WP,Denver,Sarah Chen,TechForward Inc,,340000,380000,15,2024-09-01,2025-08-30
+SCI-2024-025,BioPharm Research Lab Expansion,SCI,Boston,Rachel Torres,BioPharm Sciences,4800000,1440000,1550000,28,2024-05-15,2026-06-30
+SCI-2024-027,Agricultural Testing Facility,SCI,Dallas,David Okafor,Texas AgriResearch,2100000,1260000,1350000,62,2024-02-01,2025-08-15
+SCI-2024-029,Clean Room Manufacturing Addition,SCI,Detroit,James Wright,MicroTech Fabrication,3500000,875000,950000,23,2024-07-01,2026-04-30
+INT-2024-026,Corporate Lobby & Experience Center,INT,Chicago,Maria Santos,Prescott Industries,780000,546000,580000,73,2024-01-15,2025-03-30
+INT-2024-028,Executive Suite Renovation,INT,Denver,Alex Kim,Summit Financial Group,420000,294000,310000,73,2024-02-01,2025-02-28
+MCR-2024-033,Phoenix Resilience Lab,MC-R,Denver,Rachel Torres,Southwest Research Corp,3100000,450000,500000,12,2024-10-15,2026-06-30

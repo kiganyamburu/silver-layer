@@ -1,0 +1,250 @@
+project_id,employee_name,role,week_ending,hours_budget,hours_actual
+HC-2024-001,James Wright,PM,2024-11-08,13,15
+HC-2024-001,James Wright,PM,2024-11-15,11,17
+HC-2024-001,James Wright,PM,2024-11-22,14,12
+HC-2024-001,James Wright,PM,2024-12-06,10,16
+HC-2024-001,James Wright,PM,2024-12-13,12,11
+HC-2024-001,James Wright,PM,2024-12-20,15,13
+HC-2024-001,Lisa Park,Architect,2024-11-08,36,35
+HC-2024-001,Lisa Park,Architect,2024-11-15,34,30
+HC-2024-001,Lisa Park,Architect,2024-11-22,37,32
+HC-2024-001,Lisa Park,Architect,2024-12-06,33,34
+HC-2024-001,Lisa Park,Architect,2024-12-13,35,29
+HC-2024-001,Lisa Park,Architect,2024-12-20,38,31
+HC-2024-001,Tom Nielsen,Structural Engineer,2024-11-08,29,33
+HC-2024-001,Tom Nielsen,Structural Engineer,2024-11-15,27,28
+HC-2024-001,Tom Nielsen,Structural Engineer,2024-11-22,30,30
+HC-2024-001,Tom Nielsen,Structural Engineer,2024-12-06,26,32
+HC-2024-001,Tom Nielsen,Structural Engineer,2024-12-13,28,27
+HC-2024-001,Tom Nielsen,Structural Engineer,2024-12-20,31,29
+HC-2024-001,Priya Sharma,MEP Engineer,2024-11-08,26,25
+HC-2024-001,Priya Sharma,MEP Engineer,2024-11-15,24,20
+HC-2024-001,Priya Sharma,MEP Engineer,2024-11-22,27,22
+HC-2024-001,Priya Sharma,MEP Engineer,2024-12-06,23,24
+HC-2024-001,Priya Sharma,MEP Engineer,2024-12-13,25,19
+HC-2024-001,Priya Sharma,MEP Engineer,2024-12-20,28,21
+HC-2024-001,,,2024-11-30,520,548
+HC-2024-001,,,2024-12-31,490,512
+HC-2024-003,Maria Santos,PM,2024-11-08,11,15
+HC-2024-003,Maria Santos,PM,2024-11-15,9,10
+HC-2024-003,Maria Santos,PM,2024-11-22,12,12
+HC-2024-003,Maria Santos,PM,2024-12-06,8,14
+HC-2024-003,Maria Santos,PM,2024-12-13,10,9
+HC-2024-003,Maria Santos,PM,2024-12-20,13,11
+HC-2024-003,Derek Huang,Architect,2024-11-08,39,39
+HC-2024-003,Derek Huang,Architect,2024-11-15,37,34
+HC-2024-003,Derek Huang,Architect,2024-11-22,40,36
+HC-2024-003,Derek Huang,Architect,2024-12-06,36,38
+HC-2024-003,Derek Huang,Architect,2024-12-13,38,33
+HC-2024-003,Derek Huang,Architect,2024-12-20,41,35
+HC-2024-003,Natalie Ross,Interior Designer,2024-11-08,21,25
+HC-2024-003,Natalie Ross,Interior Designer,2024-11-15,19,20
+HC-2024-003,Natalie Ross,Interior Designer,2024-11-22,22,22
+HC-2024-003,Natalie Ross,Interior Designer,2024-12-06,18,24
+HC-2024-003,Natalie Ross,Interior Designer,2024-12-13,20,19
+HC-2024-003,Natalie Ross,Interior Designer,2024-12-20,23,21
+HC-2024-008,Sarah Martinez-Chen,PM,2024-11-08,16,19
+HC-2024-008,Sarah Martinez-Chen,PM,2024-11-15,14,14
+HC-2024-008,Sarah Martinez-Chen,PM,2024-11-22,17,16
+HC-2024-008,Sarah Martinez-Chen,PM,2024-12-06,13,18
+HC-2024-008,Sarah Martinez-Chen,PM,2024-12-13,15,13
+HC-2024-008,Sarah Martinez-Chen,PM,2024-12-20,18,15
+HC-2024-008,Kevin Briggs,Architect,2024-11-08,35,34
+HC-2024-008,Kevin Briggs,Architect,2024-11-15,33,29
+HC-2024-008,Kevin Briggs,Architect,2024-11-22,36,31
+HC-2024-008,Kevin Briggs,Architect,2024-12-06,32,33
+HC-2024-008,Kevin Briggs,Architect,2024-12-13,34,28
+HC-2024-008,Kevin Briggs,Architect,2024-12-20,37,30
+HC-2024-008,Amy Tran,MEP Engineer,2024-11-08,31,36
+HC-2024-008,Amy Tran,MEP Engineer,2024-11-15,29,31
+HC-2024-008,Amy Tran,MEP Engineer,2024-11-22,32,33
+HC-2024-008,Amy Tran,MEP Engineer,2024-12-06,28,35
+HC-2024-008,Amy Tran,MEP Engineer,2024-12-13,30,30
+HC-2024-008,Amy Tran,MEP Engineer,2024-12-20,33,32
+HE-2024-002,Rachel Torres,PM,2024-11-08,13,13
+HE-2024-002,Rachel Torres,PM,2024-11-15,11,8
+HE-2024-002,Rachel Torres,PM,2024-11-22,14,10
+HE-2024-002,Rachel Torres,PM,2024-12-06,10,12
+HE-2024-002,Rachel Torres,PM,2024-12-13,12,7
+HE-2024-002,Rachel Torres,PM,2024-12-20,15,9
+HE-2024-002,Yuki Tanaka,Architect,2024-11-08,37,37
+HE-2024-002,Yuki Tanaka,Architect,2024-11-15,35,32
+HE-2024-002,Yuki Tanaka,Architect,2024-11-22,38,34
+HE-2024-002,Yuki Tanaka,Architect,2024-12-06,34,36
+HE-2024-002,Yuki Tanaka,Architect,2024-12-13,36,31
+HE-2024-002,Yuki Tanaka,Architect,2024-12-20,39,33
+HE-2024-002,Chris Bailey,Structural Engineer,2024-11-08,29,33
+HE-2024-002,Chris Bailey,Structural Engineer,2024-11-15,27,28
+HE-2024-002,Chris Bailey,Structural Engineer,2024-11-22,30,30
+HE-2024-002,Chris Bailey,Structural Engineer,2024-12-06,26,32
+HE-2024-002,Chris Bailey,Structural Engineer,2024-12-13,28,27
+HE-2024-002,Chris Bailey,Structural Engineer,2024-12-20,31,29
+HE-2024-004,Alex Kim,PM,2024-11-08,9,13
+HE-2024-004,Alex Kim,PM,2024-11-15,7,8
+HE-2024-004,Alex Kim,PM,2024-11-22,10,10
+HE-2024-004,Alex Kim,PM,2024-12-06,6,12
+HE-2024-004,Alex Kim,PM,2024-12-13,8,7
+HE-2024-004,Alex Kim,PM,2024-12-20,11,9
+HE-2024-004,Jordan Wells,Architect,2024-11-08,39,43
+HE-2024-004,Jordan Wells,Architect,2024-11-15,37,38
+HE-2024-004,Jordan Wells,Architect,2024-11-22,40,40
+HE-2024-004,Jordan Wells,Architect,2024-12-06,36,42
+HE-2024-004,Jordan Wells,Architect,2024-12-13,38,37
+HE-2024-004,Jordan Wells,Architect,2024-12-20,41,39
+HE-2024-004,Nina Patel,Interior Designer,2024-11-08,23,23
+HE-2024-004,Nina Patel,Interior Designer,2024-11-15,21,18
+HE-2024-004,Nina Patel,Interior Designer,2024-11-22,24,20
+HE-2024-004,Nina Patel,Interior Designer,2024-12-06,20,22
+HE-2024-004,Nina Patel,Interior Designer,2024-12-13,22,17
+HE-2024-004,Nina Patel,Interior Designer,2024-12-20,25,19
+MC-2024-006,Sarah Martinez-Chen,PM,2024-11-08,15,16
+MC-2024-006,Sarah Martinez-Chen,PM,2024-11-15,13,11
+MC-2024-006,Sarah Martinez-Chen,PM,2024-11-22,16,13
+MC-2024-006,Sarah Martinez-Chen,PM,2024-12-06,12,15
+MC-2024-006,Sarah Martinez-Chen,PM,2024-12-13,14,10
+MC-2024-006,Sarah Martinez-Chen,PM,2024-12-20,17,12
+MC-2024-006,Carlos Reyes,Electrical Engineer,2024-11-08,41,45
+MC-2024-006,Carlos Reyes,Electrical Engineer,2024-11-15,39,40
+MC-2024-006,Carlos Reyes,Electrical Engineer,2024-11-22,42,42
+MC-2024-006,Carlos Reyes,Electrical Engineer,2024-12-06,38,44
+MC-2024-006,Carlos Reyes,Electrical Engineer,2024-12-13,40,39
+MC-2024-006,Carlos Reyes,Electrical Engineer,2024-12-20,43,41
+MC-2024-006,Jun Watanabe,Mechanical Engineer,2024-11-08,39,38
+MC-2024-006,Jun Watanabe,Mechanical Engineer,2024-11-15,37,33
+MC-2024-006,Jun Watanabe,Mechanical Engineer,2024-11-22,40,35
+MC-2024-006,Jun Watanabe,Mechanical Engineer,2024-12-06,36,37
+MC-2024-006,Jun Watanabe,Mechanical Engineer,2024-12-13,38,32
+MC-2024-006,Jun Watanabe,Mechanical Engineer,2024-12-20,41,34
+MC-2024-006,Beth Crawford,Architect,2024-11-08,31,31
+MC-2024-006,Beth Crawford,Architect,2024-11-15,29,26
+MC-2024-006,Beth Crawford,Architect,2024-11-22,32,28
+MC-2024-006,Beth Crawford,Architect,2024-12-06,28,30
+MC-2024-006,Beth Crawford,Architect,2024-12-13,30,25
+MC-2024-006,Beth Crawford,Architect,2024-12-20,33,27
+MC-2024-011,James Wright,PM,2024-11-08,11,14
+MC-2024-011,James Wright,PM,2024-11-15,9,9
+MC-2024-011,James Wright,PM,2024-11-22,12,11
+MC-2024-011,James Wright,PM,2024-12-06,8,13
+MC-2024-011,James Wright,PM,2024-12-13,10,8
+MC-2024-011,James Wright,PM,2024-12-20,13,10
+MC-2024-011,Roberto Fuentes,Structural Engineer,2024-11-08,36,41
+MC-2024-011,Roberto Fuentes,Structural Engineer,2024-11-15,34,36
+MC-2024-011,Roberto Fuentes,Structural Engineer,2024-11-22,37,38
+MC-2024-011,Roberto Fuentes,Structural Engineer,2024-12-06,33,40
+MC-2024-011,Roberto Fuentes,Structural Engineer,2024-12-13,35,35
+MC-2024-011,Roberto Fuentes,Structural Engineer,2024-12-20,38,37
+MC-2024-011,Samira Nouri,MEP Engineer,2024-11-08,31,31
+MC-2024-011,Samira Nouri,MEP Engineer,2024-11-15,29,26
+MC-2024-011,Samira Nouri,MEP Engineer,2024-11-22,32,28
+MC-2024-011,Samira Nouri,MEP Engineer,2024-12-06,28,30
+MC-2024-011,Samira Nouri,MEP Engineer,2024-12-13,30,25
+MC-2024-011,Samira Nouri,MEP Engineer,2024-12-20,33,27
+MC-2024-011,PROJECT TOTAL,,2024-12-31,450,468
+MC-2024-019,James Wright,PM,2024-11-08,11,15
+MC-2024-019,James Wright,PM,2024-11-15,9,10
+MC-2024-019,James Wright,PM,2024-11-22,12,12
+MC-2024-019,James Wright,PM,2024-12-06,8,14
+MC-2024-019,James Wright,PM,2024-12-13,10,9
+MC-2024-019,James Wright,PM,2024-12-20,13,11
+MC-2024-019,Frank DiMaggio,Electrical Engineer,2024-11-08,39,45
+MC-2024-019,Frank DiMaggio,Electrical Engineer,2024-11-15,37,40
+MC-2024-019,Frank DiMaggio,Electrical Engineer,2024-11-22,40,42
+MC-2024-019,Frank DiMaggio,Electrical Engineer,2024-12-06,36,44
+MC-2024-019,Frank DiMaggio,Electrical Engineer,2024-12-13,38,39
+MC-2024-019,Frank DiMaggio,Electrical Engineer,2024-12-20,41,41
+MC-2024-019,Wendy Lau,Mechanical Engineer,2024-11-08,35,41
+MC-2024-019,Wendy Lau,Mechanical Engineer,2024-11-15,33,36
+MC-2024-019,Wendy Lau,Mechanical Engineer,2024-11-22,36,38
+MC-2024-019,Wendy Lau,Mechanical Engineer,2024-12-06,32,40
+MC-2024-019,Wendy Lau,Mechanical Engineer,2024-12-13,34,35
+MC-2024-019,Wendy Lau,Mechanical Engineer,2024-12-20,37,37
+MCHC-2024-017,Sarah Martinez-Chen,PM,2024-11-08,13,14
+MCHC-2024-017,Sarah Martinez-Chen,PM,2024-11-15,11,9
+MCHC-2024-017,Sarah Martinez-Chen,PM,2024-11-22,14,11
+MCHC-2024-017,Sarah Martinez-Chen,PM,2024-12-06,10,13
+MCHC-2024-017,Sarah Martinez-Chen,PM,2024-12-13,12,8
+MCHC-2024-017,Sarah Martinez-Chen,PM,2024-12-20,15,10
+MCHC-2024-017,Marcus Green,Electrical Engineer,2024-11-08,33,37
+MCHC-2024-017,Marcus Green,Electrical Engineer,2024-11-15,31,32
+MCHC-2024-017,Marcus Green,Electrical Engineer,2024-11-22,34,34
+MCHC-2024-017,Marcus Green,Electrical Engineer,2024-12-06,30,36
+MCHC-2024-017,Marcus Green,Electrical Engineer,2024-12-13,32,31
+MCHC-2024-017,Marcus Green,Electrical Engineer,2024-12-20,35,33
+MCHC-2024-017,Diane Kowalski,Architect,2024-11-08,29,29
+MCHC-2024-017,Diane Kowalski,Architect,2024-11-15,27,24
+MCHC-2024-017,Diane Kowalski,Architect,2024-11-22,30,26
+MCHC-2024-017,Diane Kowalski,Architect,2024-12-06,26,28
+MCHC-2024-017,Diane Kowalski,Architect,2024-12-13,28,23
+MCHC-2024-017,Diane Kowalski,Architect,2024-12-20,31,25
+SCI-2024-025,Rachel Torres,PM,2024-11-08,13,17
+SCI-2024-025,Rachel Torres,PM,2024-11-15,11,12
+SCI-2024-025,Rachel Torres,PM,2024-11-22,14,14
+SCI-2024-025,Rachel Torres,PM,2024-12-06,10,16
+SCI-2024-025,Rachel Torres,PM,2024-12-13,12,11
+SCI-2024-025,Rachel Torres,PM,2024-12-20,15,13
+SCI-2024-025,Paula Vance,Lab Planner,2024-11-08,31,31
+SCI-2024-025,Paula Vance,Lab Planner,2024-11-15,29,26
+SCI-2024-025,Paula Vance,Lab Planner,2024-11-22,32,28
+SCI-2024-025,Paula Vance,Lab Planner,2024-12-06,28,30
+SCI-2024-025,Paula Vance,Lab Planner,2024-12-13,30,25
+SCI-2024-025,Paula Vance,Lab Planner,2024-12-20,33,27
+SCI-2024-025,Derek Huang,Architect,2024-11-08,26,27
+SCI-2024-025,Derek Huang,Architect,2024-11-15,24,22
+SCI-2024-025,Derek Huang,Architect,2024-11-22,27,24
+SCI-2024-025,Derek Huang,Architect,2024-12-06,23,26
+SCI-2024-025,Derek Huang,Architect,2024-12-13,25,21
+SCI-2024-025,Derek Huang,Architect,2024-12-20,28,23
+WP-2024-014,Maria Santos,PM,2024-11-08,11,15
+WP-2024-014,Maria Santos,PM,2024-11-15,9,10
+WP-2024-014,Maria Santos,PM,2024-11-22,12,12
+WP-2024-014,Maria Santos,PM,2024-12-06,8,14
+WP-2024-014,Maria Santos,PM,2024-12-13,10,9
+WP-2024-014,Maria Santos,PM,2024-12-20,13,11
+WP-2024-014,Evan Schmidt,Architect,2024-11-08,36,36
+WP-2024-014,Evan Schmidt,Architect,2024-11-15,34,31
+WP-2024-014,Evan Schmidt,Architect,2024-11-22,37,33
+WP-2024-014,Evan Schmidt,Architect,2024-12-06,33,35
+WP-2024-014,Evan Schmidt,Architect,2024-12-13,35,30
+WP-2024-014,Evan Schmidt,Architect,2024-12-20,38,32
+WP-2024-014,Alicia Monroe,Interior Designer,2024-11-08,29,33
+WP-2024-014,Alicia Monroe,Interior Designer,2024-11-15,27,28
+WP-2024-014,Alicia Monroe,Interior Designer,2024-11-22,30,30
+WP-2024-014,Alicia Monroe,Interior Designer,2024-12-06,26,32
+WP-2024-014,Alicia Monroe,Interior Designer,2024-12-13,28,27
+WP-2024-014,Alicia Monroe,Interior Designer,2024-12-20,31,29
+WP-2024-018,Alex Kim,PM,2024-11-08,9,12
+WP-2024-018,Alex Kim,PM,2024-11-15,7,7
+WP-2024-018,Alex Kim,PM,2024-11-22,10,9
+WP-2024-018,Alex Kim,PM,2024-12-06,6,11
+WP-2024-018,Alex Kim,PM,2024-12-13,8,6
+WP-2024-018,Alex Kim,PM,2024-12-20,11,8
+WP-2024-018,Trevor Hall,Architect,2024-11-08,33,39
+WP-2024-018,Trevor Hall,Architect,2024-11-15,31,34
+WP-2024-018,Trevor Hall,Architect,2024-11-22,34,36
+WP-2024-018,Trevor Hall,Architect,2024-12-06,30,38
+WP-2024-018,Trevor Hall,Architect,2024-12-13,32,33
+WP-2024-018,Trevor Hall,Architect,2024-12-20,35,35
+WP-2024-018,Lindsey Fox,MEP Engineer,2024-11-08,26,31
+WP-2024-018,Lindsey Fox,MEP Engineer,2024-11-15,24,26
+WP-2024-018,Lindsey Fox,MEP Engineer,2024-11-22,27,28
+WP-2024-018,Lindsey Fox,MEP Engineer,2024-12-06,23,30
+WP-2024-018,Lindsey Fox,MEP Engineer,2024-12-13,25,25
+WP-2024-018,Lindsey Fox,MEP Engineer,2024-12-20,28,27
+WP-2024-031,Sarah Martinez-Chen,PM,2024-11-08,15,18
+WP-2024-031,Sarah Martinez-Chen,PM,2024-11-15,13,13
+WP-2024-031,Sarah Martinez-Chen,PM,2024-11-22,16,15
+WP-2024-031,Sarah Martinez-Chen,PM,2024-12-06,12,17
+WP-2024-031,Sarah Martinez-Chen,PM,2024-12-13,14,12
+WP-2024-031,Sarah Martinez-Chen,PM,2024-12-20,17,14
+WP-2024-031,Greg Olsen,Architect,2024-11-08,37,37
+WP-2024-031,Greg Olsen,Architect,2024-11-15,35,32
+WP-2024-031,Greg Olsen,Architect,2024-11-22,38,34
+WP-2024-031,Greg Olsen,Architect,2024-12-06,34,36
+WP-2024-031,Greg Olsen,Architect,2024-12-13,36,31
+WP-2024-031,Greg Olsen,Architect,2024-12-20,39,33
+WP-2024-031,Monica Davis,Structural Engineer,2024-11-08,21,21
+WP-2024-031,Monica Davis,Structural Engineer,2024-11-15,19,16
+WP-2024-031,Monica Davis,Structural Engineer,2024-11-22,22,18
+WP-2024-031,Monica Davis,Structural Engineer,2024-12-06,18,20
+WP-2024-031,Monica Davis,Structural Engineer,2024-12-13,20,15
+WP-2024-031,Monica Davis,Structural Engineer,2024-12-20,23,17
