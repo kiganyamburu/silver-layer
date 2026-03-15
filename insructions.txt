@@ -1,0 +1,13 @@
+HERE THERE ARE LOKKING FOR NEXT STEPS:                                                                                                                  As the next step in our process, we'd like you to complete a take-home exercise. It's a realistic scenario — you'll receive two data files and a dashboard screenshot from a fictional architecture and engineering firm, and we'll ask you to investigate some data issues, clean things up, and propose a new metric.
+
+ 
+
+The exercise is designed to take about 90 minutes, with a hard stop at 2 hours. We don't want you spending a bunch of time on this — if you hit the time limit, just stop and tell us what you'd do next.
+
+ 
+
+You can use whatever tools you're comfortable with — Python, SQL, Power BI, AI assistants, whatever works for you. We're not testing memorization. We want to see how you think through problems, communicate findings, and make decisions when the data isn't perfect.
+
+ 
+
+Attached is everything you need. Just send back your work as a zip file when you're done.
